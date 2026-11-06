@@ -1,1 +1,1 @@
-11/6/2026: Re-installed Ubuntu 22.04, installed ROS2, reviewed common Linux commands & shortcuts, created this GitHub repo, installed Git in Ubuntu, cloned repository in Ubuntu
+11/6/2026: Re-installed Ubuntu 22.04, installed ROS2, reviewed common Linux commands & shortcuts, created this GitHub repo, installed Git in Ubuntu, cloned repository in Ubuntu, installed venv, made demo venv, installed PyTorch in demo venv, started collecting references in Zotero, ran turtlesim
